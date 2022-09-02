@@ -10,7 +10,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             //Expression 
 
-
+        // Merhaba cüneyt bey, git üzerinden ilk ortak proje çalışmamız.
             // switch başlatma
             switch (Month1)
             {
