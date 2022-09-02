@@ -10,6 +10,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             //Expression 
 
+
+            // switch başlatma
             switch (Month1)
             {
                 case 1:
